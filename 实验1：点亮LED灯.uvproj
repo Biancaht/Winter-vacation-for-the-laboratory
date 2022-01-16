@@ -347,19 +347,9 @@
           <GroupName>Source Group 1</GroupName>
           <Files>
             <File>
-              <FileName>实验1：点亮LED灯.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\实验1：点亮LED灯.c</FilePath>
-            </File>
-          </Files>
-        </Group>
-        <Group>
-          <GroupName>Group 2</GroupName>
-          <Files>
-            <File>
               <FileName>实验2：闪烁（延时）.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\实验2\实验2：闪烁（延时）.c</FilePath>
+              <FilePath>.\实验2：闪烁（延时）.c</FilePath>
             </File>
           </Files>
         </Group>
